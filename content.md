@@ -1,1 +1,1 @@
-**Did you know?** IBM Watson Studio lets you build and deploy an AI solution, using the best of open source and IBM software and giving your team a single environment to work in. [Learn more here.](https://cocl.us/ibm_watson_studio_infobox">https://cocl.us/ibm_watson_studio_infobox)
+### **Did you know?** IBM Watson Studio lets you build and deploy an AI solution, using the best of open source and IBM software and giving your team a single environment to work in. [Learn more here.](https://cocl.us/ibm_watson_studio_infobox)
